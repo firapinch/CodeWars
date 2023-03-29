@@ -1,4 +1,4 @@
-![Code wars logo with My Code wars Solutions text on code background](logo.jpg)
+![Code wars logo with My Code wars Solutions text on code background](logo.gif)
 
 # Welcome to My Code wars Solutions 👋
 
