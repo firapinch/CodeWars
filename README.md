@@ -8,7 +8,7 @@ This repository contains my solutions to some of the fun and challenging problem
 
 You can browse the solutions by difficulty level (kyu). Each solution has a link to the original problem statement, a brief explanation of the approach and the code in Rust.
 
-## Why did I create this repository? 🤔
+## Why did I create this repository? 
 
 These solutions are not intended to be the best or the most optimal ones. They are just my personal attempts to solve the problems. You may find better or more elegant solutions elsewhere. I encourage you to try to solve the problems on your own before looking at the solutions.
 
