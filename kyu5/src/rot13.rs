@@ -21,3 +21,22 @@ pub fn rot13(message: &str) -> String {
     }
     return res;
 }
+
+
+//             Another realisation
+//
+// pub fn rot13(message: &str) -> String {
+//     let mut result = String::with_capacity(message.len());
+//     for c in message.chars() {
+//         let is_upper = c.is_ascii_uppercase();
+//         let diff = if is_upper { b'A' } else { b'a' };
+//         if c.is_ascii_alphabetic() {
+//             let offset = (c as u8).wrapping_sub(diff);
+//             let rotated = (offset + 13) % 26 + diff;
+//             result.push(rotated as char);
+//         } else {
+//             result.push(c);
+//         }
+//     }
+//     result
+// }
